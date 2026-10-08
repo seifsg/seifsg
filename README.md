@@ -1,25 +1,74 @@
-# 💫 About Me:
-👋 Hi, I’m a seasoned software developer and solopreneur, currently building Zeedt—a SaaS platform focused on customer engagement, upselling, and business insights.<br><br>💻 I specialize in creating efficient, secure software using NestJS, React, and Supabase. Passionate about AI and backend optimization, I focus on delivering value through clean, scalable code.<br><br>🔍 Fun fact: I’m always on the hunt for new productivity hacks—anything to streamline workflows and get things done faster!<br><br>Let’s connect and build something great!
+<!-- Wanna change the banner, numbers, cards, stack or buttons? Edit scripts/config.mjs then run: node scripts/build.mjs -->
+<a href="https://www.horizonlux.com"><img src="assets/banner.svg" width="100%" alt="Seif Sgayer. 10yrs+ software engineer. Building cool stuff with AI."></a>
 
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seifsg/seifsg/main/assets/stats-mobile.svg">
+  <img src="assets/stats.svg" width="100%" alt="10yrs+ proven experience. 70+ jobs and Top Rated Plus on Upwork. 5.0 stars from 70+ reviews on Fiverr. 4+ countries shipped to: Germany, US, UK, UAE.">
+</picture>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/seifsg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seifsg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sgayerseif) 
+Hey there - I made my client an automation so GOOD that he actually fired me 😅
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=seifsg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=seifsg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seifsg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I basically replaced my whole position with an AI? He is still using it to this day as we speak and he says it is still delivering and getting better with each model.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=seifsg&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+Now he just uses his phone to get work done?
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+The recipe is called **AI Software Factory**. Basically what we developers call Software development life cycle got compressed into a couple of Claude Skills. And with the use of the right tools. Connecting it all together. With some CI CD magic.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seifsg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Oh, who am I? I'm just a software engineer with 10yrs+ of proven experience. I build the systems that run a business. And the AI automation that sits on top. Founder of [HorizonLux](https://www.horizonlux.com).
 
----
-[![](https://visitcount.itsvg.in/api?id=seifsg&icon=3&color=0)](https://visitcount.itsvg.in)
+<a href="https://youtu.be/oDs11bsn_7s"><img src="https://img.youtube.com/vi/oDs11bsn_7s/maxres1.jpg" width="440" alt="Watch my intro video: Hi! I'm Seif!"></a><br>
+<sub>▶ Hi! I'm Seif ( my intro video )</sub>
+
+### 🧱 Some stuff I built
+
+I wouldn't blame you if you don't believe me, why would you trust a stranger? So here's some of it:
+
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seifsg/seifsg/main/assets/work-mobile.svg">
+  <img src="assets/work.svg" width="100%" alt="Some stuff I built: an insurance claims platform in Germany where AI reads every claim document, a US flight school portal with Stripe billing and 129 endpoints, a UK wholesale B2B purchasing platform, a car damage inspection platform, and a doctor booking platform in the UAE.">
+</picture>
+
+Most of my work was direct with companies, some of it still live. Reviews are on [Upwork](https://www.upwork.com/freelancers/~013be65b25efd85cea) and [Fiverr](https://www.fiverr.com/seifsgayer).
+
+Background, if you're into that: I've been Director of Software Development at Locus Digital and Product Software Developer at Linedata. B.S. in Computer Science.
+
+### ⚡ Btw, I also help people with the following:
+
+* **Custom development**. Build PoCs, MVPs, End to End full product launch.
+* **Team augmentation** ( AI Native Engineers ). No commitment, 10hrs, 20hrs or full time. Cancel anytime.
+* **AI integrations**, n8n automations, AI Agents, tools setup. Consultations.
+
+### 🧭 How I work
+
+For builds, I write the spec first. Fixed scope, dated milestones, documented handover. Then I build, deploy and support.
+
+🗣️ Arabic ( native ), English ( fluent ), French and a bit of Italian.<br>
+🕐 Tunisia, UTC+1. All day with Europe, mornings with the US East coast.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seifsg/seifsg/main/assets/stack-mobile.svg">
+  <img src="assets/stack.svg" width="100%" alt="Stack: Claude Code, Claude Skills, AI Agents, n8n, Python, OpenAI, TypeScript, Node.js, NestJS, React, Next.js, React Native, C# .NET, PostgreSQL, Supabase, Stripe, MongoDB, Redis, Docker, AWS">
+</picture>
+
+🤔 Got something in your business that is very time consuming or manual work?
+
+I'd be more than happy to take a look. Worst case for you, you get a free second opinion. Sounds fair enough?
+
+<a href="https://horizonlux.com/contact"><img src="assets/btn-talk.svg" height="44" alt="Let's talk"></a>
+<a href="https://www.linkedin.com/in/seifsg/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+<a href="https://www.upwork.com/freelancers/~013be65b25efd85cea"><img src="assets/btn-upwork.svg" height="44" alt="Upwork"></a>
+<a href="https://www.fiverr.com/seifsgayer"><img src="assets/btn-fiverr.svg" height="44" alt="Fiverr"></a>
+<a href="https://www.youtube.com/@seifsg"><img src="assets/btn-youtube.svg" height="44" alt="YouTube"></a>
+<a href="https://x.com/sgayerseif"><img src="assets/btn-x.svg" height="44" alt="X"></a>
+
+Let me know what you think!
+
+Cheers,<br>
+Seif
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seifsg/seifsg/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/seifsg/seifsg/output/snake-light.svg" width="100%" alt="Snake eating my contribution graph">
+</picture>
+
+P.S. Wondering why my public repos look like a 2014 museum? Client work stays private 😅 Cooking right now: a free community version of the AI Software Factory and an AI course. Follow so you don't miss them when they're out !!
