@@ -1,4 +1,4 @@
-<!-- Wanna change the banner, numbers, cards, stack or buttons? Edit scripts/config.mjs then run: node scripts/build.mjs -->
+<!-- Wanna change the banner, numbers, cards, quotes, stack or buttons? Edit scripts/config.mjs then run: node scripts/build.mjs -->
 <a href="https://www.horizonlux.com"><img src="assets/banner.svg" width="100%" alt="Seif Sgayer. 10yrs+ software engineer. Building cool stuff with AI."></a>
 
 <picture>
@@ -28,7 +28,12 @@ I wouldn't blame you if you don't believe me, why would you trust a stranger? So
   <img src="assets/work.svg" width="100%" alt="Some stuff I built: an insurance claims platform in Germany where AI reads every claim document, a US flight school portal with Stripe billing and 129 endpoints, a UK wholesale B2B purchasing platform, a car damage inspection platform, and a doctor booking platform in the UAE.">
 </picture>
 
-Most of my work was direct with companies, some of it still live. Reviews are on [Upwork](https://www.upwork.com/freelancers/~013be65b25efd85cea) and [Fiverr](https://www.fiverr.com/seifsgayer).
+Most of my work was direct with companies, some of it still live. Here's what a few clients said on [Fiverr](https://www.fiverr.com/seifsgayer), more reviews on [Upwork](https://www.upwork.com/freelancers/~013be65b25efd85cea) too:
+
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seifsg/seifsg/main/assets/quotes-mobile.svg">
+  <img src="assets/quotes.svg" width="100%" alt="What clients say on Fiverr: Seif is not a normal freelancer. He is the best I've ever worked with (Netherlands). He resolved an issue that numerous developers weren't able to (United Kingdom). Interpreted our concept perfectly and helped develop the app into our vision (United States).">
+</picture>
 
 Background, if you're into that: I've been Director of Software Development at Locus Digital and Product Software Developer at Linedata. B.S. in Computer Science.
 

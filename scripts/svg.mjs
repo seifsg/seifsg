@@ -38,3 +38,7 @@ export const grid = (n, W, cols, cellH, pad = 40, gap = 16) => {
 // Soft glass cell used by chips, tiles and cards
 export const box = (w, h, t, { rx = 16, fill = .035, stroke = t.edge, dash } = {}) =>
   `<rect width="${w}" height="${h}" rx="${rx}" fill="#fff" fill-opacity="${fill}" stroke="${stroke}"${dash ? ` stroke-dasharray="${dash}"` : ''}/>`;
+
+// Stacked text lines, one <text> per line (SVG has no wrapping)
+export const textLines = (x, y, lines, size, fill, lh, cls = 'sans') =>
+  lines.map((l, i) => `<text class="${cls}" x="${x}" y="${y + i * lh}" font-size="${size}" fill="${fill}">${esc(l)}</text>`).join('');

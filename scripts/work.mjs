@@ -1,5 +1,5 @@
 // Project cards. 3 columns on desktop, 1 on phones. A card with cta: true is the dashed "your project?" one.
-import { esc, mono, fonts, panel, grid, box, svg } from './svg.mjs';
+import { esc, mono, fonts, panel, grid, box, textLines, svg } from './svg.mjs';
 
 const CH = 172, MAX_TITLE = 24, MAX_LINE = 32;
 
@@ -7,7 +7,7 @@ const card = (it, [x, y], w, t) => `<g transform="translate(${x} ${y})">
 ${box(w, CH, t, it.cta ? { fill: 0, stroke: t.accent, dash: '7 6' } : {})}
 <circle cx="30" cy="34" r="5" fill="${it.color}"/>${mono(44, 39, it.tag.toUpperCase(), 13, `fill="${it.color}"`, 1.6)}
 <text class="sans" x="24" y="80" font-size="22" font-weight="700" fill="${t.text}">${esc(it.title)}</text>
-${it.lines.map((l, i) => `<text class="sans" x="24" y="${112 + i * 26}" font-size="17" fill="${t.muted}">${esc(l)}</text>`).join('')}</g>`;
+${textLines(24, 112, it.lines, 17, t.muted, 26)}</g>`;
 
 export const work = (items, t, W = 1200) => {
   const bad = items?.find(it => !it.tag || !it.title || it.title.length > MAX_TITLE || !it.lines?.length || it.lines.some(l => l.length > MAX_LINE));

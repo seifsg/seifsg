@@ -1,10 +1,11 @@
 // Builds every svg in /assets from config.mjs. Zero deps, just: node scripts/build.mjs
 import { mkdirSync, writeFileSync } from 'node:fs';
-import { theme, banner as bannerCfg, stack as stackCfg, stats as statsCfg, work as workCfg, buttons } from './config.mjs';
+import { theme, banner as bannerCfg, stack as stackCfg, stats as statsCfg, work as workCfg, quotes as quotesCfg, buttons } from './config.mjs';
 import { banner } from './banner.mjs';
 import { stack } from './stack.mjs';
 import { stats } from './stats.mjs';
 import { work } from './work.mjs';
+import { quotes } from './quotes.mjs';
 import { button } from './button.mjs';
 
 // Desktop + phone (600px wide) versions of one card image
@@ -15,6 +16,7 @@ const files = {
   'banner.svg': banner(bannerCfg, theme),
   ...both('stats', stats, statsCfg),
   ...both('work', work, workCfg),
+  ...both('quotes', quotes, quotesCfg),
   ...both('stack', stack, stackCfg),
   ...Object.fromEntries(Object.entries(buttons).map(([k, v]) => [`btn-${k}.svg`, button(v, theme)])),
 };

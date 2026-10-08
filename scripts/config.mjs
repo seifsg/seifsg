@@ -53,3 +53,10 @@ export const work = [
   { tag: 'Health · UAE', color: '#f472b6', title: 'Doctor booking platform', lines: ['Patients book online.', 'Live now.'] },
   { tag: 'Next up', color: '#4f6bff', title: 'Your project?', lines: ['Tell me what eats your time.', 'Let me know what you think!'], cta: true },
 ];
+
+// Verbatim excerpts from public Fiverr reviews (read 8 Oct 2026). No usernames.
+export const quotes = [
+  { lines: ['Seif is not a normal', 'freelancer. He is the best', 'I’ve ever worked with.'], who: 'Client · Netherlands' },
+  { lines: ['He resolved an issue that', 'numerous developers weren’t', 'able to!'], who: 'Client · United Kingdom' },
+  { lines: ['Interpreted our concept', 'perfectly and helped develop', 'the app into our vision.'], who: 'Client · United States' },
+];
