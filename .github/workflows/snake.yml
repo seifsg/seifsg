@@ -1,0 +1,26 @@
+# Feeds the snake my contribution graph every day. Output lives on the "output" branch.
+name: snake
+on:
+  schedule: [{ cron: '17 3 * * *' }]
+  workflow_dispatch:
+  push: { branches: [main] }
+permissions: { contents: write }
+concurrency: { group: snake, cancel-in-progress: true }
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#38bdf8&color_dots=#161b22,#0f1c6b,#1e22aa,#3d52f0,#8195ff
+            dist/snake-light.svg?color_snake=#0ea5e9&color_dots=#ebedf0,#c3cbff,#8a99ff,#4c5ff0,#1e22aa
+      - name: Push to output branch
+        working-directory: dist
+        run: |
+          git init -q -b output
+          git add -A
+          git -c user.name=github-actions -c user.email=41898282+github-actions[bot]@users.noreply.github.com commit -qm "snake update"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" output

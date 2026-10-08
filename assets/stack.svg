@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="256" viewBox="0 0 1200 256" role="img" aria-label="Stack: Claude Code, Claude Skills, AI Agents, n8n, Python, OpenAI, TypeScript, Node.js, NestJS, React, Next.js, React Native, C# .NET, PostgreSQL, Supabase, Stripe, MongoDB, Redis, Docker, AWS"><title>Stack: Claude Code, Claude Skills, AI Agents, n8n, Python, OpenAI, TypeScript, Node.js, NestJS, React, Next.js, React Native, C# .NET, PostgreSQL, Supabase, Stripe, MongoDB, Redis, Docker, AWS</title><style>.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05071a"/><stop offset="1" stop-color="#0b1035"/></linearGradient></defs><rect width="1200" height="256" rx="24" fill="url(#bg)"/><rect x=".5" y=".5" width="1199" height="255" rx="24" fill="none" stroke="rgba(255,255,255,.09)"/><text class="mono" x="40" y="68" font-size="14" textLength="20.4" lengthAdjust="spacing" fill="#8b949e">AI</text><g transform="translate(140 40)">
+<rect width="166" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#d97757" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#d97757"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="112.2" lengthAdjust="spacing" fill="#e6edf3">Claude Code</text></g><g transform="translate(318 40)">
+<rect width="187" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#d97757" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#d97757"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="132.6" lengthAdjust="spacing" fill="#e6edf3">Claude Skills</text></g><g transform="translate(517 40)">
+<rect width="146" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#a78bfa" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#a78bfa"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="91.8" lengthAdjust="spacing" fill="#e6edf3">AI Agents</text></g><g transform="translate(675 40)">
+<rect width="85" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#ea4b71" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#ea4b71"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="30.6" lengthAdjust="spacing" fill="#e6edf3">n8n</text></g><g transform="translate(772 40)">
+<rect width="115" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#ffd43b" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#ffd43b"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="61.2" lengthAdjust="spacing" fill="#e6edf3">Python</text></g><g transform="translate(899 40)">
+<rect width="115" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#10a37f" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#10a37f"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="61.2" lengthAdjust="spacing" fill="#e6edf3">OpenAI</text></g><text class="mono" x="40" y="134" font-size="14" textLength="51" lengthAdjust="spacing" fill="#8b949e">BUILD</text><g transform="translate(140 106)">
+<rect width="156" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#3178c6" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#3178c6"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="102" lengthAdjust="spacing" fill="#e6edf3">TypeScript</text></g><g transform="translate(308 106)">
+<rect width="125" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#5fa04e" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#5fa04e"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="71.4" lengthAdjust="spacing" fill="#e6edf3">Node.js</text></g><g transform="translate(445 106)">
+<rect width="115" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#e0234e" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#e0234e"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="61.2" lengthAdjust="spacing" fill="#e6edf3">NestJS</text></g><g transform="translate(572 106)">
+<rect width="105" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#61dafb" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#61dafb"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="51" lengthAdjust="spacing" fill="#e6edf3">React</text></g><g transform="translate(689 106)">
+<rect width="125" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#ffffff" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#ffffff"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="71.4" lengthAdjust="spacing" fill="#e6edf3">Next.js</text></g><g transform="translate(826 106)">
+<rect width="176" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#61dafb" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#61dafb"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="122.4" lengthAdjust="spacing" fill="#e6edf3">React Native</text></g><g transform="translate(1014 106)">
+<rect width="125" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#9b4f96" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#9b4f96"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="71.4" lengthAdjust="spacing" fill="#e6edf3">C# .NET</text></g><text class="mono" x="40" y="200" font-size="14" textLength="40.8" lengthAdjust="spacing" fill="#8b949e">SHIP</text><g transform="translate(140 172)">
+<rect width="156" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#4169e1" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#4169e1"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="102" lengthAdjust="spacing" fill="#e6edf3">PostgreSQL</text></g><g transform="translate(308 172)">
+<rect width="136" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#3fcf8e" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#3fcf8e"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="81.6" lengthAdjust="spacing" fill="#e6edf3">Supabase</text></g><g transform="translate(456 172)">
+<rect width="115" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#635bff" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#635bff"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="61.2" lengthAdjust="spacing" fill="#e6edf3">Stripe</text></g><g transform="translate(583 172)">
+<rect width="125" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#47a248" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#47a248"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="71.4" lengthAdjust="spacing" fill="#e6edf3">MongoDB</text></g><g transform="translate(720 172)">
+<rect width="105" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#ff4438" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#ff4438"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="51" lengthAdjust="spacing" fill="#e6edf3">Redis</text></g><g transform="translate(837 172)">
+<rect width="115" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#2496ed" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#2496ed"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="61.2" lengthAdjust="spacing" fill="#e6edf3">Docker</text></g><g transform="translate(964 172)">
+<rect width="85" height="44" rx="12" fill="#fff" fill-opacity="0.035" stroke="rgba(255,255,255,.09)"/>
+<circle cx="20" cy="22" r="9" fill="#ff9900" fill-opacity=".22"/><circle cx="20" cy="22" r="4.5" fill="#ff9900"/>
+<text class="mono" x="38" y="28" font-size="17" textLength="30.6" lengthAdjust="spacing" fill="#e6edf3">AWS</text></g></svg>
