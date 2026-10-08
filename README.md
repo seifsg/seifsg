@@ -32,7 +32,7 @@ Most of my work was direct with companies, some of it still live. Here's what a 
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/seifsg/seifsg/main/assets/quotes-mobile.svg">
-  <img src="assets/quotes.svg" width="100%" alt="What clients say on Fiverr: Seif is not a normal freelancer. He is the best I've ever worked with (Netherlands). He resolved an issue that numerous developers weren't able to (United Kingdom). Interpreted our concept perfectly and helped develop the app into our vision (United States).">
+  <img src="assets/quotes.svg" width="100%" alt="What clients say on Fiverr: Seif is not a normal freelancer. He is the best I've ever worked with (Netherlands). ...he resolved an issue that numerous developers weren't able to (United Kingdom). Interpreted our concept perfectly and helped develop the app into our vision (United States).">
 </picture>
 
 Background, if you're into that: I've been Director of Software Development at Locus Digital and Product Software Developer at Linedata. B.S. in Computer Science.
