@@ -40,7 +40,7 @@ Background, if you're into that: I've been Director of Software Development at L
 ### ⚡ Btw, I also help people with the following:
 
 * **Custom development**. Build PoCs, MVPs, End to End full product launch.
-* **Team augmentation** ( AI Native Engineers ). No commitment, 10hrs, 20hrs or full time. Cancel anytime.
+* **Team augmentation** ( Ship-Fast Engineers ). No commitment, 10hrs, 20hrs or full time. Cancel anytime.
 * **AI integrations**, n8n automations, AI Agents, tools setup. Consultations.
 
 ### 🧭 How I work

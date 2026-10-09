@@ -16,7 +16,7 @@ export const banner = {
   cmds: [
     ['ai-factory build --mvp', 'PoC to launch, End to End'],
     ['automate --boring-stuff', 'manual work, solved'],
-    ['hire --ai-native-engineers', '10hrs, 20hrs or full time'],
+    ['hire --ship-fast-engineers', '10hrs, 20hrs or full time'],
     ['ship --prod', 'live as we speak'],
   ],
 };
